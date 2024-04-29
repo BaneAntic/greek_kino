@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Grčki Kino</string>
+    <string name="talon">Talon</string>
+    <string name="results">Rezultati</string>
+    <string name="live">Uživo</string>
+    <string name="upcoming_games">Naredna kola</string>
+    <string name="time_remaining">Preostalo vreme do izvlačenja: %1$s</string>
+    <string name="draw_time">Vreme izvlačenja</string>
+    <string name="draw_remaining">Preostalo vreme do izvlačenja</string>
+    <string name="draw_time_leg">Vreme izvlačenja: %1$s | kolo: %2$s</string>
+    <string name="random_pick">Slučajni odabir</string>
+    <string name="selected_numbers">Izabrano: %1$s/%2$s</string>
+    <string name="select_kino">Izaberi brojeve</string>
+    <string name="successfully_saved">Uspesno snimljena kombinacija</string>
+    <string name="dropdown_numbers">Brojeva: %1$s</string>
+    <string name="no_data_for_selected_date">Nema podataka za izabrani datum</string>
+    <string name="no_enough_remaining_time">Izvlacenje uskoro pocinje, izaberite drugo kolo za igru</string>
+</resources>
